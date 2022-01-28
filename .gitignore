@@ -1,6 +1,9 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
-#Other files 
+# Other files 
 lectures_temp
 solutions
+
+# MacOS
+.DS_Store
