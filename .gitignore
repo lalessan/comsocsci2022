@@ -7,3 +7,6 @@ solutions
 
 # MacOS
 .DS_Store
+
+# virtualenv
+env
